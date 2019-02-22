@@ -6,6 +6,9 @@
 	<title>UtamaduniWears</title>
 	<link rel="stylesheet"  href="css/style.css">
     <script type="text/javascript" src="jquerry.js"></script>
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 </head>
 <body>
 	 <div class="container">
@@ -37,7 +40,6 @@
     <input type="text" name="username" class="span3">
     <label>Password</label>
     <input type="password" name="password" class="span3">
-    <label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>
     <input type="submit" value="Sign up" class="btn btn-primary pull-right">
     <div class="clearfix"></div>
     </form>
